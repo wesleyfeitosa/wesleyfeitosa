@@ -8,14 +8,18 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 
 import { AppComponent } from './app.component';
+import { routing } from './app.routes';
+import { InicialComponent } from './inicial/inicial.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    InicialComponent
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+    routing,
     /* --------- Componentes do Angular Material --------- */
     MatToolbarModule,
     MatMenuModule,
