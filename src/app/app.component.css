@@ -1,12 +1,17 @@
-.main {
-    margin: auto;
-    margin-top: 10%;
-    width: 50%;
-    padding: 10px;
-    text-align: center;
-    border: 3px solid green;
+.sidenav-container{
+    height: 100%;
+    width: 100%;
 }
 
-.title {
-    font-size: 2em;
+.titulo {
+    margin-left: 2%;
+}
+
+mat-sidenav {
+    width: 250px;
+}
+
+.cabecalho {
+    position: fixed;
+    width: 100%;
 }

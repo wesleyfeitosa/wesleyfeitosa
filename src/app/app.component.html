@@ -1,11 +1,30 @@
-<div class="main">
-  <div class="title">
-    Wesley Feitosa
-  </div> 
-  <div>
-    <a href="#">Home</a>
-    <a href="#">Blog</a>
-    <a href="#">Portifólio</a>
-    <a href="#">Portifólio</a>
-  </div>
-</div>
+<mat-sidenav-container class="sidenav-container">
+
+  <!-- conteúdo sidenav -->
+  <mat-sidenav #variavelLocalSidenav mode="side"> 
+    Conteúdo da Sidenav
+  </mat-sidenav>
+
+  <!-- conteúdo princiapl -->
+  <mat-sidenav-content>
+
+    <!-- cabeçalho principal -->
+    <header class="cabecalho">
+      <mat-toolbar color="primary">
+        <mat-toolbar-row>
+          <button mat-icon-button (click)="variavelLocalSidenav.toggle()">
+            <mat-icon>menu</mat-icon>
+          </button>
+          <div class="titulo">
+            <strong>Wesley Feitosa</strong>
+          </div>
+        </mat-toolbar-row>
+      </mat-toolbar>
+    </header>
+
+    <!-- conteúdo principal dinâmico -->
+    <!-- <router-outlet></router-outlet> -->
+
+  </mat-sidenav-content>
+
+</mat-sidenav-container>

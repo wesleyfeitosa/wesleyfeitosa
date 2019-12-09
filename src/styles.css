@@ -1,4 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
-.main{
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+
+/*  ANGULAR MATERIAL THEMES
+*   deeppurple-amber.css
+*   indigo-pink.css
+*   pink-bluegrey.css
+*   purple-green.css
+*/
+@import '@angular/material/prebuilt-themes/pink-bluegrey.css';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    width: 100%;
+    height:100%;
 }
