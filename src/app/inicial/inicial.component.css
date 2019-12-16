@@ -1,5 +1,9 @@
-p {
+.container {
     color: aliceblue;
     font-size: 1.2em;
-    margin-top: 70px;
+    margin: 80px 20px;
+}
+
+.card {
+    padding: 100px;
 }

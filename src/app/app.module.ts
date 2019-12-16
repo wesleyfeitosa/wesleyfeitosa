@@ -6,6 +6,7 @@ import { MatMenuModule } from '@angular/material/menu';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
+import { MatButtonToggleModule } from '@angular/material/button-toggle';
 
 import { AppComponent } from './app.component';
 import { routing } from './app.routes';
@@ -25,7 +26,8 @@ import { InicialComponent } from './inicial/inicial.component';
     MatMenuModule,
     MatSidenavModule,
     MatIconModule,
-    MatButtonModule
+    MatButtonModule,
+    MatButtonToggleModule,
     /* --------- Fim do componentes Do Angular Material ---------- */
   ],
   providers: [],
