@@ -1,9 +1,27 @@
 .container {
     color: aliceblue;
     font-size: 1.2em;
-    margin: 80px 20px;
+    margin: 80px 20px 0px 20px;
 }
 
-.card {
-    padding: 100px;
+.container p {
+    text-align: center;
+    margin-top: 25%;
+}
+
+.container footer {
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+}
+
+.social_pages {
+    display: flex;
+    justify-content: center;
+}
+
+.social_pages div {
+    margin: 10px 20px;
+    align-items: center;
+    
 }
