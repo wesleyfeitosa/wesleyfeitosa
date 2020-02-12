@@ -126,5 +126,10 @@
       }
     }
   },
-  "defaultProject": "wesleyfeitosa"
+  "defaultProject": "wesleyfeitosa",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
