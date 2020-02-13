@@ -1,7 +1,30 @@
 section{
-  background-image: url("../../../assets/background_site.jpg");
+  background-image: url("../../../assets/apresentacao.jpg");
   background-size: cover;
   background-color: #000;
   height: 100vh;
-  color: #FFF
+  color: #F19F4D;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+section .links{
+  margin-top: 50px;
+}
+
+section .links a{
+  font-size: 24px;
+  margin: 0 17px;
+  text-decoration: none;
+  color:#F19F4D;
+  cursor: pointer;
+}
+
+section div img{
+  height: 130px;
+  border: 3px solid #F19F4D;
+  border-radius: 50%;
+  margin-top: 40px;
 }
