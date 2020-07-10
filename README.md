@@ -6,4 +6,5 @@
 [![Instagram badge](https://img.shields.io/badge/-Instagram-26272b?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jwesleyfeitosa)](https://www.instagram.com/jwesleyfeitosa)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-26272b?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/wesleyfeitosa0)](https://twitter.com/wesleyfeitosa0)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-26272b?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/iPlayerBoss)](https://www.youtube.com/user/iPlayerBoss)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-26272b?style=flat&logo=Twitch&logoColor=white&link=https://www.twitch.tv/wesleyfeitosa0)](https://www.twitch.tv/wesleyfeitosa0)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-26272b?style=flat&logo=Gmail&logoColor=white&link=mailto:jwesleydasilva@gmail.com)](mailto:jwesleydasilva@gmail.com)
