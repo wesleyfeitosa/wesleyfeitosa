@@ -1,5 +1,5 @@
-# Hey, I'm Wesley Feitosa 👋
-
+![Github home (1)](https://user-images.githubusercontent.com/32942055/87201859-d4121980-c2d5-11ea-8c58-c4f1319fc0eb.gif)
+  
 [![WEBSITE Badge](https://img.shields.io/badge/-Website-26272b?style=flat&logo=Mixer&logoColor=white&link=https://wesleyfeitosa.com.br)](https://wesleyfeitosa.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-26272b?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-feitosa/)](https://www.linkedin.com/in/wesley-feitosa/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-26272b?style=flat&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/148040/wesley-feitosa)](https://pt.stackoverflow.com/users/148040/wesley-feitosa)
