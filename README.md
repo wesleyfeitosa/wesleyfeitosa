@@ -1,6 +1,6 @@
 # Hey, I'm Wesley Feitosa 👋
 
-[![WEBSITE](https://img.shields.io/badge/Website-black?style=for-the-badge&link=wesleyfeitosa.com.br)](wesleyfeitosa.com.br)
+[![WEBSITE Badge](https://img.shields.io/badge/Website-black?style=flat-square&link=https://wesleyfeitosa.com.br)](https://wesleyfeitosa.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-feitosa/)](https://www.linkedin.com/in/wesley-feitosa/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/148040/wesley-feitosa)](https://pt.stackoverflow.com/users/148040/wesley-feitosa)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jwesleyfeitosa)](https://www.instagram.com/jwesleyfeitosa)
