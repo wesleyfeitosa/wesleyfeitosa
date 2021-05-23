@@ -1,6 +1,6 @@
 ### Just read the instructions
   
-![](https://komarev.com/ghpvc/?username=wesleyfeitosa&color=gray)
+![](https://komarev.com/ghpvc/?username=wesleyfeitosa&color=blueviolet)
 [![WEBSITE Badge](https://img.shields.io/badge/-Website-24292E?style=flat&logo=Mixer&logoColor=white&link=https://wesleyfeitosa.dev)](https://wesleyfeitosa.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-24292E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-feitosa/)](https://www.linkedin.com/in/wesley-feitosa/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-24292E?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/wesleyfeitosa0)](https://twitter.com/wesleyfeitosa0)
